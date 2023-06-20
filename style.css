@@ -1852,7 +1852,7 @@ footer{
 }
 
 
-@media screen and (max-device-width:100vw){
+@media screen and (max-device-width:680px){
     .hamburger i{
         display: block;
         position: absolute;
